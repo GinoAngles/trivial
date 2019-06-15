@@ -1,0 +1,2 @@
+# trivial
+Trivial game
